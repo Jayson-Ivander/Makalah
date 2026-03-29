@@ -142,11 +142,11 @@ margin:auto;
 }
 .cardProfile{
 background-color: rgb(213, 209, 209);
-padding:10px;
+padding:15px;
 width:300px;
 margin:auto;
 text-align: center;
-height: 400px;
+height: 250px;
 }
 .imgProfile img{
 width:100%;
