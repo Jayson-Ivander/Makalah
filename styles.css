@@ -146,12 +146,14 @@ padding:15px;
 width:300px;
 margin:auto;
 text-align: center;
+position:relative;
 }
 .imgProfile img{
 width:100%;
 }
 
 .medsos {
+position: absolute;
 left: 0;
 bottom: 0;
 width: 100%;
